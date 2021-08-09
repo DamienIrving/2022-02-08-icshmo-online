@@ -359,7 +359,7 @@ please preview your site before committing, and make sure to run
 
 <p>
   Software installation instructions and links to download the workshop
-  data files can be found at <a href="https://carpentrieslab.github.io/python-aos-lesson/setup.html">https://carpentrieslab.github.io/python-aos-lesson/setup.html</a>.
+  data files can be found at <a href="https://carpentries-lab.github.io/python-aos-lesson/setup.html">https://carpentrieslab.github.io/python-aos-lesson/setup.html</a>.
 </p>
 
 <p>
