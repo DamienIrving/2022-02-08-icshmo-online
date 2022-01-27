@@ -363,12 +363,7 @@ please preview your site before committing, and make sure to run
 </p>
 
 <p>
-  In order to avoid delays at the beginning of the workshop,
-  we also ask that everyone follows the optional python package installation instructions at that page.
-</p>
-
-<p>
-  <strong>Please complete the data download and software installation prior to arriving at the workshop.</strong>
+  <strong>Please complete the data download and install the required software (Bash Shell, Git and Anaconda) prior to arriving at the workshop.</strong>
 </p>
 
 <hr/>
